@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-I'm Anden, a junior at Ohio State studying Computer Science & Engineering. 
+I'm Anden, a junior at Ohio State studying Computer Science & Engineering. I have dabbled in basically everything, but regularly work heavily in Web Development and Robotics.
 
 - I am currently working as a Software Engineer Intern optimizing 3D printing procedures for the [Ohio State Center for Design & Manufacturing Excellence](https://cdme.osu.edu/).
 - 🔭 I’m currently working on ...
@@ -14,6 +14,4 @@ I'm Anden, a junior at Ohio State studying Computer Science & Engineering.
 
 [![Anden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aacitelli&show_icons=ture&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anden's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aacitelli&layout=compact&theme=merko&langs=8&hide=ASP)](https://github.com/anuraghazra/github-readme-stats)
-
--->
+[![Anden's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aacitelli&layout=compact&theme=merko&langs_count=8&hide=ASP)](https://github.com/anuraghazra/github-readme-stats)
