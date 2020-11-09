@@ -13,6 +13,7 @@ I'm Anden, a junior at Ohio State studying Computer Science & Engineering.
 - ⚡ Fun fact: ...
 
 [![Anden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aacitelli&show_icons=ture&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Anden's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aacitelli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anden's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aacitelli&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
