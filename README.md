@@ -8,6 +8,8 @@ I'm Anden, a junior at Ohio State studying Computer Science & Engineering. I hav
 - 📫 You can reach me at andenacitelli@gmail.com. 
 - ⚡ Outside of programming, I love to play the guitar and cook.
 
-[![Anden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aacitelli&show_icons=ture&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+Here's some GitHub stats because numbers are cool:
+
+[![Anden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aacitelli&show_icons=ture&theme=merko&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anden's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aacitelli&layout=compact&theme=merko&langs_count=8&hide=ASP,GDScript)](https://github.com/anuraghazra/github-readme-stats)
