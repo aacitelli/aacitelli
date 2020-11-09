@@ -13,5 +13,5 @@ Here's some GitHub stats because numbers are cool:
   <img align="center" height="156" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aacitelli&layout=compact&theme=merko&langs_count=8&hide=ASP,GDScript&bg_color=FAFBFC&title_color=111111&text_color=111111&custom_title=Anden's Most Used Languages" />
 </a>
 <a href="https://andenacitelli.com">
-  <img align="center" height="156" src="https://github-readme-stats.vercel.app/api?username=aacitelli&show_icons=ture&theme=merko&hide=stars,issues&bg_color=FAFBFC&title_color=111111&text_color=111111&icon_color=#111111&custom_title=Anden's GitHub Stats" />
+  <img align="center" height="156" src="https://github-readme-stats.vercel.app/api?username=aacitelli&show_icons=ture&theme=merko&hide=stars,issues&bg_color=FAFBFC&title_color=111111&text_color=111111&icon_color=#111111&custom_title=Anden's GitHub Stats&count_private=true" />
 </a>
