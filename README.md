@@ -10,9 +10,9 @@ I'm Anden, a junior at Ohio State studying Computer Science & Engineering. I hav
 Here's some GitHub stats because numbers are cool:
 
 <a href="https://andenacitelli.com">
-  <div style="height:10px;"></div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aacitelli&show_icons=ture&theme=merko&hide=stars,issues&bg_color=FAFBFC&title_color=111111&text_color=111111&icon_color=#111111" />
-  <div style="height:10px;"></div>
+  <div style="display: inline-block; height:10px;"></div>
+  <img style="display: inline-block" align="center" src="https://github-readme-stats.vercel.app/api?username=aacitelli&show_icons=ture&theme=merko&hide=stars,issues&bg_color=FAFBFC&title_color=111111&text_color=111111&icon_color=#111111" />
+  <div style="display: inline-block; height:10px;"></div>
 </a>
 <a href="https://andenacitelli.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aacitelli&layout=compact&theme=merko&langs_count=8&hide=ASP,GDScript&bg_color=FAFBFC&title_color=111111&text_color=111111" />
