@@ -9,5 +9,5 @@ I'm Anden, a junior at Ohio State studying Computer Science & Engineering. I hav
 
 Here's some GitHub stats because numbers are cool:
 
-[![Anden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aacitelli&show_icons=ture&theme=merko&hide=stars,issues&bg_color=FAFBFC&title_color=111111&text_color=111111&icon_color=#111111&line_height=70)](https://github.com/anuraghazra/github-readme-stats)
+[![Anden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aacitelli&show_icons=ture&theme=merko&hide=stars,issues&bg_color=FAFBFC&title_color=111111&text_color=111111&icon_color=#111111&line_height=200)](https://github.com/anuraghazra/github-readme-stats)
 [![Anden's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aacitelli&layout=compact&theme=merko&langs_count=8&hide=ASP,GDScript&bg_color=FAFBFC&title_color=111111&text_color=111111)](https://github.com/anuraghazra/github-readme-stats)
