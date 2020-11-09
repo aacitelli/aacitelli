@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hey! 👋
 
-<!--
-**aacitelli/aacitelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anden, a junior at Ohio State studying Computer Science & Engineering. 
 
-Here are some ideas to get you started:
-
+- I am currently working as a Software Engineer Intern optimizing 3D printing procedures for the [Ohio State Center for Design & Manufacturing Excellence](https://cdme.osu.edu/).
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Anden's github stats](https://github-readme-stats.vercel.app/api?username=aacitelli&show_icons=ture&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
