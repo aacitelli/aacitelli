@@ -5,7 +5,7 @@ I'm Anden, a junior at Ohio State studying Computer Science & Engineering. I hav
 - 🔭 I’m currently optimizing 3D printing procedures for the [Ohio State Center for Design & Manufacturing Excellence](https://cdme.osu.edu/) and leading software development for Ohio State's Underwater Robotics Team ([@osu-uwrt](http://github.com/osu-uwrt)) on top of progressing through my course load as a student.
 - 📫 You can reach me at andenacitelli@gmail.com. 
 - 💬 Ask me about anything! I'm always open to inquiries of any sort and would love to grab a coffee or have a chat with you.
-- ⚡ Outside of programming, I love to play the guitar and cook.
+- ⚡ Outside of programming, I love to play guitar, cook, and run.
 
 Here's some GitHub stats because numbers are cool:
 
