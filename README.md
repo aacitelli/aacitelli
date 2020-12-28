@@ -2,7 +2,7 @@
 
 I'm Anden, a junior at Ohio State studying Computer Science & Engineering. Check out my resume [here](https://drive.google.com/file/d/1nlJzHsSkNTlFM0Xu_uAItzb8M-6_duzt/view?usp=sharing) or just scroll through my GitHub for a quick overview of what I'm about. I will be interning with [JPMorgan](https://www.jpmorgan.com/) this upcoming summer, but am open to full-time opportunities after I graduate (likely Fall 2021); get in contact via the email listed below!
 
-- 🔭 I’m currently developing 3D printing procedures for the [Ohio State Center for Design & Manufacturing Excellence](https://cdme.osu.edu/) and leading software development for Ohio State's Underwater Robotics Team ([@osu-uwrt](http://github.com/osu-uwrt)) on top of my course load.
+- 🔭 I’m currently developing 3D printing procedures for the [Ohio State Center for Design & Manufacturing Excellence](https://cdme.osu.edu/) and leading software development for Ohio State's Underwater Robotics Team ([@osu-uwrt](http://github.com/osu-uwrt)) while progressing through courses.
 - 📫 You can reach me at andenacitelli@gmail.com. 
 - 💬 Ask me about anything! I would love to have a chat with you about anything and everything work-related or otherwise.
 - ⚡ Outside of programming, I love to play guitar, cook, and run.
